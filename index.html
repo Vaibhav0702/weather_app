@@ -1,0 +1,48 @@
+<!-- 5c4599f8826400804c089bce7cbbac07 -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  <link rel="stylesheet" href="weather.css">
+  </head>
+  <body>
+   <div id="nav"> 
+    <div id="left">
+       <h1>Havaman Report</h1>
+
+    </div>
+    <div id="right"> 
+      <input type="text" id="city" />
+
+      <button onclick="getWeatherData()">Search</button>
+    </div>
+  
+  </div>
+    <div id="box">
+
+
+        <div id="container"></div>
+
+        <!-- ----------------------------------------- -->
+    
+        <div class="mapouter">
+          <div class="gmap_canvas">
+            <iframe id="gmap_canvas" width="500" height="300"  frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+            <a href="https://123movies-to.org"></a><br />   
+            <a href="https://www.embedgooglemap.net"></a>
+          </div>
+        </div>
+    
+        <!-- ------------------------------------------------------------  -->
+       
+    </div>
+    <div id="Day_data"></div>
+    
+  </body>
+</html>
+
+<script src="weather.js"></script>
