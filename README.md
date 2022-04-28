@@ -17,7 +17,7 @@ Weather_App is a platform used to get weather data as per users search for their
 
                                                **Introduction to Landing Page**
 
-**There are three section in which we can see Google map, current day weatcher report and in tyhe bottom section we can see weather report of upcomming 7 days after searching for specific city** 
+**There are three section in which we can see Google map, current day weather report and in the bottom section we can see weather report of upcomming 7 days after searching for specific city** 
 
 
 ![Screenshot (988)](https://user-images.githubusercontent.com/97450767/165694268-70fb96be-1a7e-44de-a710-d4c0934a006b.png)
