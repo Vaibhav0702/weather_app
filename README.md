@@ -5,4 +5,4 @@
 
 **Landing page**
 
-![Screenshot (51)](https://drive.google.com/file/d/13j7eRZ7a5j2_Dh2uXcyQ7QYZmTCvs5vz/view?usp=sharing)
+![Screenshot (988)](https://user-images.githubusercontent.com/97450767/165694268-70fb96be-1a7e-44de-a710-d4c0934a006b.png)
