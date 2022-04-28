@@ -1,6 +1,6 @@
 # Introduction to Weather_App
   
-Weather_App is a platform used to get weather Report as per users search for their respective city or they can also pick up any location from the provided google map And also see upcoming 7 days data after searching.
+Weather_App is a platform used to get weather report as per users search for their respective city or they can also pick up any location from the provided google map And also see upcoming 7 days data after searching.
 
 # Features of the Project
 
